@@ -1,5 +1,5 @@
 
-GoodNight App
+GoodNight App!
 Welcome to Goodnight ! Where "Sleep Transforms Lives!"
 GoodNight is a comprehensive solution designed to enhance sleep quality through the integration of advanced ML predictions and personalized AI chat support. Our mission is to transform the way individuals approach their nighttime routines, fostering healthier sleep habits for all.
 
