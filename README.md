@@ -2,7 +2,8 @@
 GoodNight App
 Welcome to Goodnight ! Where "Sleep Transforms Lives!"
 GoodNight is a comprehensive solution designed to enhance sleep quality through the integration of advanced ML predictions and personalized AI chat support. Our mission is to transform the way individuals approach their nighttime routines, fostering healthier sleep habits for all.
-![Screenshot 2024-04-01 003055](https://github.com/Prakriti2901/TeamEureka/assets/122342001/e919819e-2c03-4df9-aee3-0ed4bc5f9948)
+![Screenshot 2024-03-31 235013](ttps://github.com/Prakriti2901/TeamEureka/assets/122342001/11d40521-94ba-4afc-b48d-c07b1c343b88)
+
 
 📌 Table of Contents
 
